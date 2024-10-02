@@ -40,7 +40,7 @@ Select *Entity Framework Core* option and proceed the *Next* step.
 
 In this step, we can select the options for integrating the new microservice to the rest of the solution components:
 
-![abp-studio-add-new-microservice-dialog-integration-step](D:\Github\abp\docs\en\tutorials\microservice\images\abp-studio-add-new-microservice-dialog-integration-step.png)
+![abp-studio-add-new-microservice-dialog-integration-step](images/abp-studio-add-new-microservice-dialog-integration-step.png)
 
 ABP Studio intelligently selects the right values for you, but you should still check them carefully since they directly affect what we will do in the next parts of this tutorial.
 
